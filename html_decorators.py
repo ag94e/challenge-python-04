@@ -21,7 +21,7 @@ def p(func):
 
 # Here you must apply the decorators, uncomment this later
 # @div
-@article
+#@article
 # @p
 def saludo(nombre):
     return f'¡Hola {nombre}, ¿Cómo estás?'
